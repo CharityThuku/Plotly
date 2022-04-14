@@ -4,7 +4,7 @@
 - The purpose of the project was to create an interactive website so that researchers could view the demographic information and visualize bacterial data of each individual. volunteer in the study
 
 ## Purpose
-- The purpose of the project was to utilize JSON, HTML, VS CODE and JavaScript to complete the project.
+- The purpose of the project was to utilize JSON, HTML, VS Code and JavaScript to complete the project.
 
 ## Results
 Below is the website that was created:
